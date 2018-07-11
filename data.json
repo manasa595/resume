@@ -1,0 +1,29 @@
+{
+"profile":{
+    "name":"manasa",
+    "img":"download.jpg.jpg",
+  "email":"tshooter03@gmail.com",
+  "mobile":"9577634312"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+
+  "education":[
+    {
+    "degree":"B.tech",
+    "institute":"pvpsit",
+    "data":["2015-2019","80%"]
+  },
+  {
+  "degree":"iNTERMEDIATE",
+  "institute":"Narayana junior college",
+  "data":["2015-2019","80%"]
+},
+{
+"degree":"S.S.C",
+"institute":"st.Johns",
+"data":["2015-2019","80%"]
+}
+  ]
+  }
