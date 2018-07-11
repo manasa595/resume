@@ -25,5 +25,25 @@
 "institute":"st.Johns",
 "data":["2015-2019","80%"]
 }
-  ]
+],
+"skills":[
+  {
+    "title":"programming language",
+    "info":["c","c++","java","phython"]
+},
+{
+"title":"operating system",
+"info":["MAC","windows"]
+},
+{
+  "title":"web tecnologies",
+  "info":["html","css"]
+}
+],
+"achievements":[
+  {
+    "info":"Got first prize for Group Discussion."
   }
+]
+
+}
